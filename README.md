@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sharique Arshad</h1>
 <h3 align="center">An aspiring Embedded Engineer from India</h3>
 
-- 📝 I am currently studying in [Lovely Professional University](Lovely Professional University)
+- 📝 I am currently studying in Lovely Professional University
 
 - 📫 How to reach me **mdshariqarshad@gmail.com**
 
